@@ -1,2 +1,2 @@
 # lindenutils
- R package with common utility functions for Martin Van der Linden
+ R package with utility functions commonly used by the author.
